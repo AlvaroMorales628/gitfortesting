@@ -42,7 +42,7 @@ export default class HomeScreen extends React.Component {
             </View>
 
             <Text style={styles.getStartedText}>
-              Alright Test 4, Merge Testing</Text>
+              Test 5. Testing remote</Text>
           </View>
 
           <View style={styles.helpContainer}>
